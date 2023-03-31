@@ -1,4 +1,4 @@
-agente_id nombre_agente
+agent_id  agent_name
 1         WINDERMERE
 2         GINA JEANNOT
 3         MELANIE ANTONUCCI
