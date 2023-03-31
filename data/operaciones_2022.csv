@@ -1,4 +1,4 @@
-﻿id_operación,fecha_operación,precio,public_id,código_frente_agua,código_vista,código_condición,código_calidad,año_renovación,agente_id,código_país
+﻿id_operacion,fecha_operacion,precio,public_id,codigo_frente_agua,codigo_vista,codigo_condicion,codigo_calidad,anio_renovacion,agente_id,codigo_pais
 1000102,20/04/2023,300000.00,11635597,0,0,3,7,0,8,1
 1000102,14/09/2022,280000.00,10032321,0,0,3,7,0,4,1
 1200019,06/05/2022,647500.00,13027088,0,0,4,8,0,11,1
